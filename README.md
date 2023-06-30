@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![This is not the place you are looking for](https://raw.githubusercontent.com/SodaWithoutSparkles/SodaWithoutSparkles/main/IMG_20230701_010513.png)
 <!--
 **SodaWithoutSparkles/SodaWithoutSparkles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
